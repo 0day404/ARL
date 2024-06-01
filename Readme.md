@@ -5,6 +5,7 @@
 [![Github Stars](https://img.shields.io/github/stars/TophantTechnology/ARL.svg)](https://github.com/TophantTechnology/ARL/stargazers)
 
 资产灯塔，不仅仅是域名收集
+本项目是ARL副本，完全复刻，无修改
 
 ### 简介
 
